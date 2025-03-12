@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**anisha24pareek/anisha24pareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Anisha Pareek 
 
-Here are some ideas to get you started:
+### About Me
+Hi there! 👋 I'm **Anisha Pareek**, a passionate and detail-oriented **Senior Software Engineer** specializing in **Full-Stack Development**. My mission? To build seamless, user-focused applications that make a difference in people's lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Expertise
+- **Frontend**: Angular, TypeScript, JavaScript, HTML, CSS
+- **Backend**: .NET Framework, C#, Web APIs
+- **Database**: MSSQL
+- **Other Skills**: Debugging, architecture design, and performance optimization
+
+---
+
+### 🎨 Beyond Coding
+When I'm not coding, you can find me:
+- 🎨 Exploring my artistic side through **painting**
+- 📸 Capturing beautiful moments with **photography**
+- 🌟 And always on the lookout for new hobbies and adventures!
+
+---
+
+### 🌍 Let's Connect!
+- 📫 **Email**: anisha24pareek@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/anishapareek](#)
+
+---
+
+✨ I’m always excited to collaborate, learn, and grow. Feel free to reach out!
+
